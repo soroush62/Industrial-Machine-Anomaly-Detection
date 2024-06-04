@@ -84,6 +84,9 @@ Create various charts to visualize the data:
 
 - **Area Charts:** Area charts effectively show the distribution and density of temperature data over time, helping identify trends and patterns that might indicate potential issues. By breaking down data by year and month, these charts allow for detailed temporal analysis, making it easier to spot seasonal or cyclical trends. Comparing distributions over different time periods can highlight changes in the machine's operating conditions, aiding in proactive maintenance scheduling.
 
+### Selected Diagrams Dashboard
+![Selected Diagrams Dashboard](Images/Pic1.png)
+
 ## Benefits of Using LightningChart Python for Visualizing Data
 LightningChart offers high-performance, customizable visualizations that are crucial for handling large datasets and real-time data. Its ability to create complex, interactive dashboards makes it an excellent choice for predictive maintenance applications in the industry. This is crucial for industrial applications where sensor data is continuously collected over long periods. The LightningChart ability to handle data in real-time allows for immediate visualization and analysis, facilitating timely maintenance decisions and actions.
 
