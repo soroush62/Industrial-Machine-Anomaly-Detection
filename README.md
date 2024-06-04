@@ -1,7 +1,3 @@
-Certainly! Here is the README file content based on the exact content from your Word file:
-
----
-
 # Predictive Maintenance Analysis Using Python and LightningChart
 
 ## Introduction
